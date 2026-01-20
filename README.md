@@ -9,8 +9,7 @@ _____________________________________________________________________________
 
 Projet :
 
-Créer un mini-site vitrine pour une entreprise fictive : 
-Chocolatine, Site de vente de viennoiseries 
+Créer un mini-site vitrine pour une entreprise fictive : Chocolatine, Site de vente de viennoiseries 
 (header, présentation, services, contact, footer)
 
 _____________________________________________________________________________
